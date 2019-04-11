@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Academic</title>
+    <link>https://ick003.github.io/authors/admin/</link>
+    <description>Recent content in admin on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ick003.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ick003.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ick003.github.io/author/admin/</guid>
+      <description>Adrien is a research statistician with interest in applied statistics and probabilistic risk assessments. I have advanced knowledge in Bayesian and computational statistics, and good knowledge in monitoring and modeling multivariate and spatio-temporal processes.
+He obtained his PhD in applied statistics from Universite de Rennes 1, France in 2010, applying statistical methods to the tracking of multiple targets using a network of basic sensors.
+Between 2010 and 2012 he worked as a Lecturer in Statistics at Universite Paris Dauphine, France and then joined the Institut Mines - Telecom Lille - Douai, France as a research associate.</description>
+    </item>
+    
+  </channel>
+</rss>
